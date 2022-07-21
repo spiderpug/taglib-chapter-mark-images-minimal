@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    taglib-ruby (1.1.2)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  taglib-ruby
+
+BUNDLED WITH
+   2.3.8
